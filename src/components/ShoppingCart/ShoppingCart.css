@@ -1,0 +1,19 @@
+.ShoppingCart__container {
+    margin-right: 30px;
+}
+
+.ShoppingCart__img {
+    width: 50px;
+    height: 50px;
+}
+
+.ShoppingCart__cart-number {
+    display: flex;
+    border-radius: 50%;
+    background-color: red;
+    width: 20px;
+    height: 20px;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
